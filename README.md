@@ -6,7 +6,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![cURL](https://img.shields.io/badge/cURL-00599C?style=for-the-badge&logo=php&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Version](https://img.shields.io/badge/Version-2.0.0-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 <br>
@@ -234,13 +234,13 @@ For ISO 8601 Discord formatting.
 
 ### 🧪 Main Interface
 
-<img src="https://cdn.discordapp.com/attachments/1454921421460475987/1475939826434969674/image.png" width="650px">
+<img src="https://cdn.discordapp.com/attachments/1454921421460475987/1475939826434969674/image.png?ex=699ff854&is=699ea6d4&hm=7fcbf52bea4955a09d1f35b361ca68e674e013641052aa44cceca188fd6d3fa1&" width="650px">
 
 <br><br>
 
 ### 🛰 Logger Output Example
 
-<img src="https://cdn.discordapp.com/attachments/1454921421460475987/1475939826434969674/image.png" width="650px">
+<img src="https://cdn.discordapp.com/attachments/1454921421460475987/1475939826787160267/image.png?ex=699ff854&is=699ea6d4&hm=56c0146c467a5cf2c37fe6053aefb58c3e7a46f285e2af1d09d02964a61def08&" width="650px">
 
 </div>
 
